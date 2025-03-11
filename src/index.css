@@ -1,0 +1,19 @@
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'NeueHaasDisplay-Roman', sans-serif;
+}
+
+h1 {
+    font-family: 'NeueHaasDisplay-Black', sans-serif;
+}
+
+p {
+    font-family: 'NeueHaasDisplay-Light', sans-serif;
+}
+
