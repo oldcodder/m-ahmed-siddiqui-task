@@ -1,5 +1,5 @@
 import React from "react";
-import SearchBar from "./SearchBar";
+import Searchbar from "./Searchbar";
 import { Link } from "react-router-dom";
 
 const JobListing = () => {
@@ -15,7 +15,7 @@ const JobListing = () => {
             </div>
 
             <div className="mt-2">
-                <SearchBar />
+                <Searchbar />
             </div>
 
             <div className="mt-4 flex flex-wrap gap-2">
